@@ -1,0 +1,120 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+  },
+  "OFFHAND": {
+  },
+  "FEET": {
+    "minecraft:chainmail_boots": [
+      1104,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      188,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      1170,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      856,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      1452,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      61,
+      1.9030677
+    ]
+  },
+  "LEGS": {
+    "minecraft:chainmail_leggings": [
+      1104,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      188,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      1170,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      856,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      1452,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      61,
+      1.9030677
+    ]
+  },
+  "CHEST": {
+    "minecraft:chainmail_chestplate": [
+      1104,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      188,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      1170,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      856,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      1452,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      61,
+      1.9030677
+    ]
+  },
+  "HEAD": {
+    "minecraft:chainmail_helmet": [
+      1104,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      188,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      1170,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      856,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      1452,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      61,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      800,
+      0.948558
+    ]
+  }
+}
